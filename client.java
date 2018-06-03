@@ -45,7 +45,7 @@ public class client {
     }
 
     public static void main(String[] args) throws IOException {
-        Socket socket = new Socket("127.0.0.1", 1978);
+        Socket socket = new Socket("127.0.0.1", 3000);
         client c = new client();
         System.out.println("Client connect");
 
