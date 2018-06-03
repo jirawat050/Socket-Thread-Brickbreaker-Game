@@ -15,7 +15,7 @@ import java.net.Socket;
  */
 
 public class serverThread {
-    static final int PORT = 1978;
+    static final int PORT = 3000;
 
     public static void main(String args[]) {
         ServerSocket serverSocket = null;
