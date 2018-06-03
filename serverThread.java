@@ -14,7 +14,7 @@ import java.net.Socket;
  * @author macbook
  */
 
-public class serverThread {
+public class server {
     static final int PORT = 3000;
 
     public static void main(String args[]) {
